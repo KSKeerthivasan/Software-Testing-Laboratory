@@ -141,29 +141,50 @@ Users accessibility is censured in all the ways
 
 ### Possible Bugs:
 1.Successful insertion of ATM card
+
 2.Unsuccessful operation due to insert card in wrong angle
+
 3.Unsuccessful operation due to invalid account Ex: other bank card or time expired card
+
 4.successful entry of PIN number
+
 5.un successful operation due to enter wrong PIN number 3times
+
 6.successful selection of language
+
 7.successful selection of account type
+
 8.unsuccessful operation due to invalid account type
+
 9.successful selection of withdraw operation
+
 10.successful selection of amount to be withdrawal
+
 11.successful withdraw operation
+
 12.unsuccessful withdraw operation due to wrong denominations
+
 13.unsuccessful withdraw operation due to amount is greater than day limit
+
 14.unsuccessful withdraw operation due to lack of money in ATM
+
 15.unsuccessful withdraw operation due to amount is greater than possible balance
+
 16.unsuccessful withdraw operation due to transactions is greater than day limit
+
 17.unsuccessful withdraw operation due to click cancel after insert card
+
 18.unsuccessful withdraw operation due to click cancel after insert card & pin number
+
 19.unsuccessful withdraw operation due to click cancel after insert card, pin number & language
+
 20.unsuccessful withdraw operation due to click cancel after insert card, pin number, language &account type
+
 21.unsuccessful withdrawal operation due to click cancel after insert card, pin number, language, account type & withdrawal 
-   operation
+operation
+
 22.unsuccessful withdrawal operation due to click cancel after insert card, pin number, language, account type, withdrawal 
-   operation &amount to be withdraw
+operation &amount to be withdraw
 
 ### Result:
 Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully
